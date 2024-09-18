@@ -1,13 +1,13 @@
 # AI_Voice_Assistant
-python project that can take audio input from user and generate audio response.
+GenAI-python project which enhances user interaction experience with GenAI models, takes user queries in audio format and generate audio response against user queries..
 
 Implemetation Video: https://go.screenpal.com/u/ALU6/AI-Voice-Assistant
 
 #Skills leveraged: 
 Launching and operating a LLM model,
-opening and closing process threads,
-executing a software in background,
-handling sessions in streamlit.
+opening and terminating process threads,
+Silent execution of external support software,
+Session handling in streamlit
 
 
 #Tech involved: 
